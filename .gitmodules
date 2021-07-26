@@ -73,3 +73,6 @@
 [submodule "bundle/indentline"]
 	path = bundle/indentline
 	url = git@github.com:Yggdroot/indentLine.git
+[submodule "bundle/markdown"]
+	path = bundle/markdown
+	url = git@github.com:plasticboy/vim-markdown.git
