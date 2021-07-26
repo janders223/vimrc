@@ -55,3 +55,6 @@
 [submodule "bundle/qlist"]
 	path = bundle/qlist
 	url = git@github.com:romainl/vim-qlist.git
+[submodule "bundle/qf"]
+	path = bundle/qf
+	url = git@github.com:romainl/vim-qf.git
