@@ -82,3 +82,6 @@
 [submodule "bundle/startuptime"]
 	path = bundle/startuptime
 	url = git@github.com:tweekmonster/startuptime.vim.git
+[submodule "bundle/terraform"]
+	path = bundle/terraform
+	url = git@github.com:hashivim/vim-terraform.git
