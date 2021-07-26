@@ -67,3 +67,6 @@
 [submodule "bundle/characterize"]
 	path = bundle/characterize
 	url = git@github.com:tpope/vim-characterize.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = git@github.com:tpope/vim-endwise.git
