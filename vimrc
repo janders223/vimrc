@@ -46,4 +46,4 @@ autocmd User asyncomplete_setup call asyncomplete#register_source(asyncomplete#s
             \ 'completor': function('asyncomplete#sources#emmet#completor'),
             \ }))
 
-let delimitMate_expand_cr = 1
+let g:delimitMate_expand_cr=2
