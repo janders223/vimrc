@@ -10,6 +10,7 @@ set shiftwidth=4
 set expandtab
 set splitright
 set splitbelow
+set wildmode=list:full
 
 augroup dracula
     autocmd!
