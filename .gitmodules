@@ -58,3 +58,6 @@
 [submodule "bundle/qf"]
 	path = bundle/qf
 	url = git@github.com:romainl/vim-qf.git
+[submodule "bundle/lion"]
+	path = bundle/lion
+	url = git@github.com:tommcdo/vim-lion.git
