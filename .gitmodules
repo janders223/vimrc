@@ -76,3 +76,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "bundle/json"]
+	path = bundle/json
+	url = git@github.com:elzr/vim-json.git
