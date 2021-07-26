@@ -4,3 +4,9 @@
 [submodule "bundle/nix"]
 	path = bundle/nix
 	url = git@github.com:LnL7/vim-nix.git
+[submodule "bundle/fzf"]
+	path = bundle/fzf
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "bundle/neuron"]
+	path = bundle/neuron
+	url = git@github.com:chiefnoah/neuron-v2.vim.git
