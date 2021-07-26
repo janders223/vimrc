@@ -13,3 +13,33 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = git@github.com:tpope/vim-sensible.git
+[submodule "bundle/vim-lsp"]
+	path = bundle/vim-lsp
+	url = git@github.com:prabirshrestha/vim-lsp.git
+[submodule "bundle/nvim-lsp-settings"]
+	path = bundle/nvim-lsp-settings
+	url = git@github.com:mattn/vim-lsp-settings.git
+[submodule "bundle/asyncomplete"]
+	path = bundle/asyncomplete
+	url = git@github.com:prabirshrestha/asyncomplete.vim.git
+[submodule "bundle/asyncomplete-lsp"]
+	path = bundle/asyncomplete-lsp
+	url = git@github.com:prabirshrestha/asyncomplete-lsp.vim.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/asyncomplete-ultisnips"]
+	path = bundle/asyncomplete-ultisnips
+	url = git@github.com:prabirshrestha/asyncomplete-ultisnips.vim.git
+[submodule "bundle/asyncomplete-file"]
+	path = bundle/asyncomplete-file
+	url = git@github.com:prabirshrestha/asyncomplete-file.vim.git
+[submodule "bundle/asyncomplete-emmet"]
+	path = bundle/asyncomplete-emmet
+	url = git@github.com:prabirshrestha/asyncomplete-emmet.vim.git
+[submodule "bundle/emmet"]
+	path = bundle/emmet
+	url = git@github.com:mattn/emmet-vim.git
