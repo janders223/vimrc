@@ -46,4 +46,13 @@ autocmd User asyncomplete_setup call asyncomplete#register_source(asyncomplete#s
             \ 'completor': function('asyncomplete#sources#emmet#completor'),
             \ }))
 
+let g:lsp_log_file = expand('~/.cache/vim/lsp.log')
+if executable('rnix-lsp')
+    autocmd User lsp_setup call lsp#register_server({
+                \ 'name': 'rnix-lsp',
+                \ 'cmd': {server_info->[&shell, &shellcmdflag, 'rnix-lsp']},
+                \ 'whitelist': ['nix'],
+                \ })
+endif
+
 let g:delimitMate_expand_cr=2
