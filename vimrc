@@ -56,3 +56,8 @@ if executable('rnix-lsp')
 endif
 
 let g:delimitMate_expand_cr=2
+
+" LSP Mappings
+nnoremap <silent><space>gh :LspHover<CR>
+nnoremap <silent><space>gd :LspDocumentDiagnostics<CR>
+nnoremap <silent><space>gf :LspDocumentFold<CR>
