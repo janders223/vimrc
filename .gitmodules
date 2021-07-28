@@ -100,3 +100,6 @@
 [submodule "bundle/go-mod"]
 	path = bundle/go-mod
 	url = git@github.com:mattn/vim-gomod.git
+[submodule "bundle/kotlin"]
+	path = bundle/kotlin
+	url = git@github.com:udalov/kotlin-vim.git
