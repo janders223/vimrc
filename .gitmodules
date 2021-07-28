@@ -97,3 +97,6 @@
 [submodule "bundle/gutentags"]
 	path = bundle/gutentags
 	url = git@github.com:ludovicchabant/vim-gutentags.git
+[submodule "bundle/go-mod"]
+	path = bundle/go-mod
+	url = git@github.com:mattn/vim-gomod.git
