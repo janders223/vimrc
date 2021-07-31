@@ -49,7 +49,6 @@ autocmd User asyncomplete_setup call asyncomplete#register_source(asyncomplete#s
 let g:asyncomplete_min_chars=3
 inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
-inoremap <expr> <cr>    pumvisible() ? asyncomplete#close_popup() : "\<cr>"
 
 " LSP Settings
 let g:lsp_log_file = expand('~/.cache/vim/lsp.log')
