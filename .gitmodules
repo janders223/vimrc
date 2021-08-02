@@ -103,3 +103,6 @@
 [submodule "bundle/kotlin"]
 	path = bundle/kotlin
 	url = git@github.com:udalov/kotlin-vim.git
+[submodule "bundle/abolish"]
+	path = bundle/abolish
+	url = git@github.com:tpope/vim-abolish.git
