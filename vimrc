@@ -67,3 +67,7 @@ nnoremap <silent><space>gf :LspDocumentFold<CR>
 
 " delimitMate settings
 let g:delimitMate_expand_cr=2
+
+let g:prettier#autoformat = 1
+let g:prettier#autoformat_require_pragma = 0
+

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/kon8522/src/storbi/.gems/gems/sassc-2.4.0/lib/sassc'
+let g:netrw_dirhist_3='/Users/kon8522/src/storbi/src/components'
+let g:netrw_dirhist_2='/Users/kon8522/src/storbi/storbi/static/css'
+let g:netrw_dirhist_1='/Users/kon8522/src/storbi/storbi/static'
+let g:netrw_dirhist_0='/Users/kon8522/src/storbi/storbi'
+let g:netrw_dirhist_9='/Users/kon8522/src/storbi/storbi/templates'
+let g:netrw_dirhist_8='/Users/kon8522/src/storbi/storbi/templates/layouts'
+let g:netrw_dirhist_7='/Users/kon8522/src/storbi/storbi'
+let g:netrw_dirhist_6='/Users/kon8522/src/storbi'
+let g:netrw_dirhist_5='/Users/kon8522/Downloads/bsawf-course-material/20-internationalization-i18n/snakeeyes'
