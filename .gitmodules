@@ -109,6 +109,3 @@
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle/vim-tmux-navigator
 	url = git@github.com:christoomey/vim-tmux-navigator.git
-[submodule "bundle/markdown-preview"]
-	path = bundle/markdown-preview
-	url = https://github.com/iamcco/markdown-preview.nvim.git
